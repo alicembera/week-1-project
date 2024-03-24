@@ -40,7 +40,14 @@ Therefore, exploring opportunities in tech-driven sectors and engaging with Mumb
 
 ### Power BI Dashboard 
 
-![11](https://github.com/alicembera/week-1-project/assets/160122113/14572b53-1295-484d-af35-f0ee074ad83f)
+![14](https://github.com/alicembera/week-1-project/assets/160122113/6468a1b6-7cb1-427d-afbc-7ccba199b634)
+
+![12](https://github.com/alicembera/week-1-project/assets/160122113/5bb519c0-38ff-4153-804b-768eb0207449)
+
+![13](https://github.com/alicembera/week-1-project/assets/160122113/e33ec3da-97e7-4a26-8731-cb6df576687e)
+
+
+
 
 
 ### Thank you.
