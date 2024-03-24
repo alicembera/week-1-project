@@ -38,7 +38,7 @@ Bangalore and Mumbai, being a prominent hub for startups and investments, offers
 
 Therefore, exploring opportunities in tech-driven sectors and engaging with Mumbai's startup ecosystem could lead to favorable outcomes in terms of growth and innovation.
 
-### Power BI Dashboard 
+### Power BI Dashboard Visualization
 
 ![14](https://github.com/alicembera/week-1-project/assets/160122113/6468a1b6-7cb1-427d-afbc-7ccba199b634)
 
